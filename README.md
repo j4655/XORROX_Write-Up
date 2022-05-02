@@ -8,3 +8,5 @@ output.txt: This is the original output file that contains the "enc" and "xorrox
 xorrox.py: This is the original file given during the challenge that contains the code used to generate the output file. The only alterations made from its original state are added comments for code clarity.
 
 unxorrox.py: This is the script that I wrote to derive the key values and obtain the flag for the challenge.
+
+XORROX_Write_Up.pdf: This is the write-up document for the XORROX challenge, in case you didn't get to this repo from this document.
